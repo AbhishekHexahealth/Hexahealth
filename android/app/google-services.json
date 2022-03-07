@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1030390462056",
+    "project_id": "hexa-health",
+    "storage_bucket": "hexa-health.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030390462056:android:9ad2202e518678dc8e6ddd",
+        "android_client_info": {
+          "package_name": "com.hexa.hexahealth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030390462056-c5nnjr3rcbb2dgmbof7ivq2p6v4kpqjs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD5--nU4vtBY0L9mJJJfSLrjF4vddsfW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1030390462056-c5nnjr3rcbb2dgmbof7ivq2p6v4kpqjs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
